@@ -87,7 +87,7 @@ hope it works lol)
 * [Tweet Sent](https://github.com/Gogoseit2020/BigSurSounds_Ogg/raw/master/BigSurSounds_Ogg_format/alerts/tweet_sent.ogg)
 
 ## Dock
-* [Drag To Trash](https://github.com/Gogoseit2020/BigSurSounds_Ogg/raw/master/BigSurSounds_Ogg_format/dock/drag_to_trash.ogg\)
+* [Drag To Trash](https://github.com/Gogoseit2020/BigSurSounds_Ogg/raw/master/BigSurSounds_Ogg_format/dock/drag_to_trash.ogg)
 * [Drag To Trash Glade](https://github.com/Gogoseit2020/BigSurSounds_Ogg/raw/master/BigSurSounds_Ogg_format/dock/drag_to_trash_glade.ogg)
 * [Poof Item Off Dock](https://github.com/Gogoseit2020/BigSurSounds_Ogg/raw/master/BigSurSounds_Ogg_format/dock/poof_item_off_dock.ogg)
 
